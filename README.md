@@ -1,0 +1,1 @@
+In this project, we made a weather data analyzer that takes in a .csv file as input, which has Calgary's weather data for the past 30 years. We use that data to make graphs and boil it down to the important details such as the average temperature every year, or the mins and maxs, etc.
